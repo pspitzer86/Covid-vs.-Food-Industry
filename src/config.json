@@ -1,0 +1,4 @@
+{
+    "mongo_uri": "mongodb+srv://project-2:VCJl56k7UMoIByWz@cluster0.4dt6k.mongodb.net/service-industry?retryWrites=true&w=majority",
+    "db_name": "service-industry"
+}

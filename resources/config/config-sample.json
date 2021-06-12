@@ -1,0 +1,4 @@
+{
+    "mongo_uri": "YOUR MONGO URI",
+    "db_name": "service-industry"
+}
