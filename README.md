@@ -1,0 +1,1 @@
+# covid_v_service_industry
