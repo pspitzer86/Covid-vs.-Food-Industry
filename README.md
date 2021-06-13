@@ -27,4 +27,9 @@ After considering aspects such as the wages per location, wages per position, di
 
 ![image](https://user-images.githubusercontent.com/65049133/121820485-def0cf00-cc47-11eb-8781-77eb907379b1.png)
 
-An interactive treemap with the number of people employed per occupation in the years prior to and during COVID-19.
+An interactive treemap with the number of people employed per occupation in the years prior to and during COVID-19 (2016-2020).
+
+
+Collaboration with Ben Galde, Fernando Flores, and Paula Lopes
+
+DISCLAIMER** Unfortunately not all aspects of the heroku app are working as intended.
