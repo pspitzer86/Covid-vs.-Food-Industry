@@ -26,3 +26,5 @@ What actions(s) can be taken?
 After considering aspects such as the wages per location, wages per position, diversity per position, industry growth, and others a decision can be made to move to a more beneficial location, search for a more desired position, or start one’s own business in the industry.
 
 ![image](https://user-images.githubusercontent.com/65049133/121820485-def0cf00-cc47-11eb-8781-77eb907379b1.png)
+
+An interactive treemap with the number of people employed per occupation in the years prior to and during COVID-19.
